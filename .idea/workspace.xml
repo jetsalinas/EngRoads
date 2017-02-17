@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0490107b-6b0b-4522-8840-f2d125897ad5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/src/Map/Edge.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Application/src/Map/Vertex.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Application/Map/Edge.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Application/Map/Vertex.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Application/Main.class" afterPath="$PROJECT_DIR$/out/production/Application/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Application/Map/Vehicle.class" afterPath="$PROJECT_DIR$/out/production/Application/Map/Vehicle.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/src/Main.java" afterPath="$PROJECT_DIR$/Application/src/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/src/Map/Vehicle.java" afterPath="$PROJECT_DIR$/Application/src/Map/Vehicle.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +21,8 @@
       <file leaf-file-name="Simulator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Application/src/Simulator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="108" column="49" lean-forward="false" selection-start-line="108" selection-start-column="49" selection-end-line="108" selection-end-column="49" />
+            <state relative-caret-position="284">
+              <caret line="105" column="17" lean-forward="true" selection-start-line="105" selection-start-column="17" selection-end-line="105" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -38,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RoadQueue.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="RoadQueue.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Application/src/Map/RoadQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3916">
-              <caret line="198" column="27" lean-forward="false" selection-start-line="198" selection-start-column="27" selection-end-line="198" selection-end-column="27" />
+            <state relative-caret-position="120">
+              <caret line="196" column="5" lean-forward="true" selection-start-line="196" selection-start-column="5" selection-end-line="196" selection-end-column="5" />
               <folding>
                 <element signature="e#4098#4099#0" expanded="true" />
                 <element signature="e#4146#4147#0" expanded="true" />
@@ -51,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Vehicle.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Vehicle.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Application/src/Map/Vehicle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="418">
-              <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+              <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
               <folding>
                 <element signature="e#1030#1031#0" expanded="true" />
                 <element signature="e#1062#1063#0" expanded="true" />
@@ -448,6 +440,14 @@
       <option name="presentableId" value="Default" />
       <updated>1486206881698</updated>
     </task>
+    <task id="LOCAL-00001" summary="Basic build of simulation with basic probability and map implementation less time dilation.">
+      <created>1487346589067</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1487346589067</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -456,11 +456,11 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32925472" sideWeight="0.4978355" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32925472" sideWeight="0.5021645" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3359288" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -487,7 +487,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Basic build of simulation with basic probability and map implementation less time dilation." />
+    <option name="LAST_COMMIT_MESSAGE" value="Basic build of simulation with basic probability and map implementation less time dilation." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -872,34 +873,34 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Application/src/Map/Edge.java" />
-    <entry file="file://$PROJECT_DIR$/Application/src/Map/RoadQueue.java">
+    <entry file="file://$PROJECT_DIR$/Application/src/Map/Vehicle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3916">
-          <caret line="198" column="27" lean-forward="false" selection-start-line="198" selection-start-column="27" selection-end-line="198" selection-end-column="27" />
+        <state relative-caret-position="418">
+          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
           <folding>
-            <element signature="e#4098#4099#0" expanded="true" />
-            <element signature="e#4146#4147#0" expanded="true" />
+            <element signature="e#1030#1031#0" expanded="true" />
+            <element signature="e#1062#1063#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Application/src/Simulator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="108" column="49" lean-forward="false" selection-start-line="108" selection-start-column="49" selection-end-line="108" selection-end-column="49" />
+        <state relative-caret-position="284">
+          <caret line="105" column="17" lean-forward="true" selection-start-line="105" selection-start-column="17" selection-end-line="105" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/src/Map/Vehicle.java">
+    <entry file="file://$PROJECT_DIR$/Application/src/Map/RoadQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        <state relative-caret-position="120">
+          <caret line="196" column="5" lean-forward="true" selection-start-line="196" selection-start-column="5" selection-end-line="196" selection-end-column="5" />
           <folding>
-            <element signature="e#1030#1031#0" expanded="true" />
-            <element signature="e#1062#1063#0" expanded="true" />
+            <element signature="e#4098#4099#0" expanded="true" />
+            <element signature="e#4146#4147#0" expanded="true" />
           </folding>
         </state>
       </provider>
